@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="corejava/Arrays/AccessModifiers/src"/>
+	<classpathentry kind="src" path="corejava/Arrays/src"/>
+	<classpathentry kind="src" path="corejava/Collections/Abstraction/src"/>
+	<classpathentry kind="src" path="corejava/Collections/Annotations/src"/>
+	<classpathentry kind="src" path="corejava/Collections/src"/>
+	<classpathentry kind="src" path="corejava/CommandLineArguments/src"/>
+	<classpathentry kind="src" path="corejava/DataTypes/src"/>
+	<classpathentry kind="src" path="corejava/Encapsulation/src"/>
+	<classpathentry kind="src" path="corejava/Enums/src"/>
+	<classpathentry kind="src" path="corejava/EventManagement/src"/>
+	<classpathentry kind="src" path="corejava/ExceptionHandling/src"/>
+	<classpathentry kind="src" path="corejava/FlowControl/src"/>
+	<classpathentry kind="src" path="corejava/GarbageCollection/src"/>
+	<classpathentry kind="src" path="corejava/Generics/src"/>
+	<classpathentry kind="src" path="corejava/Inheritance/src"/>
+	<classpathentry kind="src" path="corejava/InnerClasses/src"/>
+	<classpathentry kind="src" path="corejava/IOStreams/src"/>
+	<classpathentry kind="src" path="corejava/Java8Features/src"/>
+	<classpathentry kind="src" path="corejava/JavaBasics/src"/>
+	<classpathentry kind="src" path="corejava/JVMArchitecture/src"/>
+	<classpathentry kind="src" path="corejava/mavendemo/src/main/java"/>
+	<classpathentry kind="src" path="corejava/mavendemo/src/test/java"/>
+	<classpathentry kind="src" path="corejava/MultiThreading/src"/>
+	<classpathentry kind="src" path="corejava/NonStaticMembers/src"/>
+	<classpathentry kind="src" path="corejava/ObjectMethods/src"/>
+	<classpathentry kind="src" path="corejava/Operators/src"/>
+	<classpathentry kind="src" path="corejava/Packages/src"/>
+	<classpathentry kind="src" path="corejava/Polymorphism/src"/>
+	<classpathentry kind="src" path="corejava/Reflection/src"/>
+	<classpathentry kind="src" path="corejava/Reflection/WrapperClasses/src"/>
+	<classpathentry kind="src" path="corejava/StringHandling/src"/>
+	<classpathentry kind="lib" path="corejava/mavendemo/target/mavendemo-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="corejava/Arrays/AccessModifiers/bin"/>
+</classpath>
